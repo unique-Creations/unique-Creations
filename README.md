@@ -1,10 +1,10 @@
 # ![Unique Creations Header](https://github.com/unique-Creations/unique-Creations/blob/main/header.png)
 ### Hi there 👋 
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/logo.png" height="50px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/robot.png" height="50px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/car.png" height="50px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/rocket.png" height="50px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/crypto.png" height="50px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/logo.png" height="40px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/robot.png" height="40px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/car.png" height="40px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/rocket.png" height="40px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/crypto.png" height="40px" alt="programming Languages Logo">
 <br/>
 <br/>
 <br/>
@@ -29,7 +29,7 @@ Senior undergraduate computer engineering student looking for an internship or e
     <img align="left" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/swift@0.0.0/swift_24x24.png" alt="programming Languages Logo">
     <img  align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/file_type_verilog_icon_130092.png" height="26px alt="programming Languages Logo">
     <img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/file_type_matlab_icon_130398.png" height="26px" alt="programming Languages Logo">
-</p><br/><br/>
+</p><br/>
 
 
 ### Hardware and Instrumentation 🧰

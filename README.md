@@ -1,12 +1,13 @@
 # ![Unique Creations Header](https://github.com/unique-Creations/unique-Creations/blob/main/header.png)
 ### Hi there 👋 
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/logo.png" height="35px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/robot.png" height="35px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/car.png" height="39px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/rocket.png" height="35px" alt="programming Languages Logo">
-<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/crypto.png" height="36px" alt="programming Languages Logo">
-
-
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/logo.png" height="100px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/robot.png" height="100px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/car.png" height="100px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/rocket.png" height="100px" alt="programming Languages Logo">
+<img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/crypto.png" height="100px" alt="programming Languages Logo">
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <p align="left">

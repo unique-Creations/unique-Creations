@@ -40,24 +40,14 @@ Senior undergraduate computer engineering student looking for an internship or e
     <img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/rasp.png" height="32px" width="32px" alt="Raspberry PI Icon">
 </p><br/>
                                                                                                                                                       
+### STATS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-Creations&layout=compact&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+                                                                                                                                                      
 ### Connect With Me 🤝 
 <p align="left">
 <a href="https://www.linkedin.com/in/ernesto-ruiz-375897156/">
     <img src="https://img.shields.io/badge/LinkedIn-Ernesto Ruiz-blue" />
   </a>
 </p>
-<!--
-<!--
-**unique-Creations/unique-Creations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -41,7 +41,7 @@ Senior undergraduate computer engineering student looking for an internship or e
 </p><br/>
                                                                                                                                                       
 ### STATS
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-Creations&layout=compact&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-Creations&layout=compact&hide=Jupyter-Notebook,cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
 <br/>                                                                                                                                                     
 ![Profile views](https://gpvc.arturio.dev/unique-Creations)
 

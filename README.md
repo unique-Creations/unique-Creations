@@ -1,4 +1,4 @@
-# ![Unique Creations Header](https://github.com/unique-Creations/unique-Creations/blob/main/header.png)
+
 ### Hi there 👋 
 <img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/logo.png" height="40px" alt="programming Languages Logo">
 <img align="left" src="https://github.com/unique-Creations/unique-Creations/blob/main/robot.png" height="40px" alt="programming Languages Logo">

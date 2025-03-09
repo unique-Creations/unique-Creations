@@ -9,8 +9,6 @@
 <br/>
 <br/>
 <p align="left">
-Senior undergraduate computer engineering student looking for an internship or entry level position as a Hardware or Software Engineer to apply my skills and solve challenging problems.
-</p>
 
 ### Programming Languages 💻
 <p align="left">
